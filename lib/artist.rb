@@ -25,9 +25,7 @@ class Artist
     end
   end
 
-  def self.all
-    @@all << artist
-  end
+
     
     
 end
